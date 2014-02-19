@@ -1,0 +1,6 @@
+.idea
+mongo-rest-query-helper.iml
+npm-debug.log
+node_modules
+.DS_Store
+lib/.DS_Store

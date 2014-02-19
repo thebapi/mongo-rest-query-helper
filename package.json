@@ -1,0 +1,33 @@
+{
+  "name": "mongo-rest-query-helper",
+  "version": "0.0.1",
+  "description": "Rest url query to mongo criteria.",
+  "keywords": [
+    "mongo",
+    "query",
+    "rest"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thebapi/mongo-rest-query-helper.git"
+  },
+  "author": {
+    "name": "Sajib Sarkar",
+    "email": "thebapi@gmail.com"
+  },
+  "main": "index",
+  "engines": "node >= 0.4.x",
+  "scripts": {
+    "test": "grunt"
+  },
+  "devDependencies": {
+    "grunt-mocha-test": "~0.9.0",
+    "grunt": "~0.4.1",
+    "should": "~3.1.2",
+    "expect.js": "~0.2.0"
+  },
+  "dependencies": {
+    "underscore": "~1.6.0",
+    "jsonify": "0.0.0"
+  }
+}
