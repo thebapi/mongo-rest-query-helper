@@ -1,6 +1,6 @@
 {
   "name": "mongo-rest-query-helper",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Rest url query to mongo criteria.",
   "keywords": [
     "mongo",
